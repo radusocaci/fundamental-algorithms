@@ -1,0 +1,3 @@
+C:\JetBrains\apps\CLion\ch-0\183.5429.37\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\Assignment1___Direct_Sorting_Methods.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Assignment1___Direct_Sorting_Methods.dir/objects.a @CMakeFiles\Assignment1___Direct_Sorting_Methods.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Assignment1___Direct_Sorting_Methods.dir/objects.a -Wl,--no-whole-archive  -o Assignment1___Direct_Sorting_Methods.exe -Wl,--out-implib,libAssignment1___Direct_Sorting_Methods.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Assignment1___Direct_Sorting_Methods.dir\linklibs.rsp

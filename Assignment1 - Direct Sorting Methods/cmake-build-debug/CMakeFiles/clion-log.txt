@@ -1,0 +1,4 @@
+C:\JetBrains\apps\CLion\ch-0\183.5429.37\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Radu\OneDrive\Poli_Stuff\FA\LAB - Assignments\Assignment1 - Direct Sorting Methods"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Radu/OneDrive/Poli_Stuff/FA/LAB - Assignments/Assignment1 - Direct Sorting Methods/cmake-build-debug

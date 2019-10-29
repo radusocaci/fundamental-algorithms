@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Radu/OneDrive/Poli_Stuff/FA/LAB - Assignments/Assignment1 - Direct Sorting Methods/Direct Sorting.cpp
+iostream
+-
+conio.h
+-
+Profiler.h
+C:/Users/Radu/OneDrive/Poli_Stuff/FA/LAB - Assignments/Assignment1 - Direct Sorting Methods/Profiler.h
+
+C:/Users/Radu/OneDrive/Poli_Stuff/FA/LAB - Assignments/Assignment1 - Direct Sorting Methods/Profiler.h
+Windows.h
+-
+Shellapi.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+typeinfo
+-
+map
+-
+vector
+-
+algorithm
+-
+functional
+-
+string
+-
+

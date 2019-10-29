@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17134.0",
+            "compilerPath": "C:/MinGW/bin",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++"
+                ],
+                "limitSymbolsToIncludedHeaders": false,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
